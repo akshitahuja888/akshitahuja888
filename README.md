@@ -1,4 +1,4 @@
-[![Akshit's GitHub Banner](./assets/GithubBanner.png)]
+[![Akshit's GitHub Banner](./GithubBanner.png)]
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahujaakshit2001/">
