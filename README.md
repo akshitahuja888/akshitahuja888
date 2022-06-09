@@ -7,7 +7,7 @@
 
 Hey there,
 
-I'm a pre-final year undergraduate student pursuing my Bachelors in Software Engineering from Delhi Technological University, current working on my Data Structure and Algorithms Skills.
+I'm a pre-final year undergraduate student pursuing my Bachelors in Software Engineering from Delhi Technological University, currently working on my Data Structure and Algorithms Skills.
 
 
 ## Current Stack
