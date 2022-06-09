@@ -1,4 +1,4 @@
-[![Akshit's GitHub Banner]('/temp.png')]
+![Akshit's GitHub Banner](temp.png)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahujaakshit2001/">
